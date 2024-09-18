@@ -1,3 +1,6 @@
 .classpath
 .settings
 .project
+
+# Project exclude paths
+/target/
